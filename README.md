@@ -11,5 +11,7 @@ git -push -u origin master
 commit是一个完整的回路,这是就可以使用git commit --amend --no-edit
 amend 追加
 no-edit 不更改备注
+##注意
+templates 下的html一定要引入 templates start 才可以正确的解析
 ## 工具
 
